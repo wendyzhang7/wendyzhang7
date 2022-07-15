@@ -15,5 +15,5 @@ alt="LinkedIn"
 data-canonical-src="https://img.shields.io/badge/wendy--zhang%20-%230077B5.svg?&amp;style=flat-square&amp;
 logo=linkedin&amp;
 logoColor=white&amp;
-link=https://www.linkedin.com/in/wendy-zh/" 
+link=https://www.linkedin.com/in/wendy-zh/;
 style="max-width: 100%;">
