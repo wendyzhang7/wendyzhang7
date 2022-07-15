@@ -10,10 +10,6 @@ Hello! I'm Wendy, and I'm a Software Engineer!
 
 Let's connect!
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-alt="LinkedIn" 
-data-canonical-src="https://img.shields.io/badge/wendy--zhang%20-%230077B5.svg?&amp;style=flat-square&amp;
-logo=linkedin&amp;
-logoColor=white&amp;
-link=https://www.linkedin.com/in/wendy-zh/;
-style="max-width: 100%;">
+[![LinkedIn](https://img.shields.io/badge/Wendy--Zhang%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendy-zh/)](https://www.linkedin.com/in/wendy-zh/)
+[![Gmail](https://img.shields.io/badge/Wendy--Zhang%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:wzhang5252@gmail.com)](wzhang5252@gmail.com)
+
