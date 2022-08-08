@@ -1,4 +1,4 @@
-Hello! I'm Wendy, and I'm a Software Engineer!
+Hello! My name is Wendy, and I'm a Software Engineer.
 
 🔭 I’m currently working on a Frontend & UI design project.
 
